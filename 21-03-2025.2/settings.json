@@ -1,0 +1,11 @@
+{
+    "BackupSchedule": {
+        "DayOfWeek": "Monday",
+        "WeekFrequency": 2,
+        "Time": "10:00 AM"
+    },
+    "BackupLocation": "%userprofile%\\OneDrive\\wsl-backup",
+    "LogLocation": "%userprofile%\\OneDrive\\wsl-scripts",
+    "MaxBackupCopies": 3,
+    "PowershellVersion": "7.4.1"
+}
