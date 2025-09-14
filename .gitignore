@@ -1,0 +1,27 @@
+# Ignore all directories and subdirectories
+*/
+
+# Logs
+*.log
+
+# Executables (if you don't want to track them)
+*.exe
+
+# Common Windows/PowerShell temp files
+*.tmp
+*~
+
+# Backup files
+*.bak
+*.backup
+
+# IDE/Editor files
+.vscode/
+.vs/
+*.swp
+*.swo
+
+# System files
+Thumbs.db
+Desktop.ini
+.DS_Store
